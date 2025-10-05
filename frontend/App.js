@@ -1,8 +1,8 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
-import FeedPage from './Screens/FeedPage';
-import SubmitScreen from './Screens/SubmitScreen';
+import FeedPage from './app/Screens/FeedPage';
+import SubmitScreen from './app/Screens/SubmitScreen';
 
 const Stack = createStackNavigator();
 

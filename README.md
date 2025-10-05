@@ -1,6 +1,6 @@
-# cooked.spark Frontend
+# cooked.spark Frontend and backend
 
-This is the frontend for the cooked.spark app built with Expo and React Native.
+This is the fullstack for the cooked.spark app built with Expo and React Native for frontend and backend with express and node.js
 
 ## Structure
 

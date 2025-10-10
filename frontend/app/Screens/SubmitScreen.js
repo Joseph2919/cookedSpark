@@ -22,7 +22,7 @@ const SubmitScreen = () => {
     }
 
     try {
-      const response = await fetch('http://192.168.0.100:5000/api/users', {
+      const response = await fetch('https://cookedspark.onrender.com', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ name: title, email: description }), // 👈 mapping to backend structure

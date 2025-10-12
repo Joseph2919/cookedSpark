@@ -1,1 +1,1 @@
-const API_URL = "https://cookedspark.onrender.com";
+const API_URL = "https://cookedspark.onrender.com/api/users";
